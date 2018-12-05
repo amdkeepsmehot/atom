@@ -1,6 +1,6 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
+permalink: /aboutme.html/
 ---
 Bored af so decided to make a website about brown bears end my life lol
